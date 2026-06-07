@@ -1,6 +1,6 @@
 cask "scribbles" do
   version "0.1.4"
-  sha256 "1809b678cd800ac93653870090660f1baa9bcf64594a9a414f27c38c82d8e857"
+  sha256 "42e1fb3d30c5f0f5ae742fccb7f8c08ae13b45a924aecfd7bd594579d7ebafb6"
 
   url "https://github.com/tcober/Scribbles/releases/download/v#{version}/Scribbles-#{version}-arm64.dmg"
   name "Scribbles"
